@@ -1,2 +1,2 @@
 # Send-email
-A simpe python script to send an email.
+A simple python script to send an email.
